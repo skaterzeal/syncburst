@@ -1,0 +1,5 @@
+POST /redeem HTTP/1.1
+Host: target.example
+Content-Type: application/json
+
+{"code":"GIFT100"}

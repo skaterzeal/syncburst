@@ -1,0 +1,19 @@
+# Local binaries and release output
+/syncburst
+/syncburst.exe
+/ts.exe
+/dist/
+*.test
+
+# Go tooling output
+coverage.out
+coverage.html
+*.prof
+*.pprof
+
+# Editors and operating systems
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+Desktop.ini
